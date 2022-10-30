@@ -1,0 +1,30 @@
+.registration-form{
+	width: 800px;
+    margin: 10px auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  padding: 10px;
+  background-color: #eeee;
+  
+}
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color:burlywood
+}
+
+.input-group-text{
+    background-color:rgb(201, 206, 201);
+}
+
+.gender-check-input{
+    margin-left: 20px;
+
+
+}
+.gender-check-label{
+    margin-left: 2px;
+}
+
+
